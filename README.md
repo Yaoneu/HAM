@@ -15,4 +15,4 @@ url = {https://www.sciencedirect.com/science/article/pii/S0306457324003686},
 author = {Yao Li and He Cai and Huilin Liu},
 keywords = {Attention mechanism, Network representation learning, Network alignment, Graph neural network},
 }
-<cite>
+</cite>
